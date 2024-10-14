@@ -24,7 +24,7 @@ Items:
 Puedes realizar un fork desde tu Github, o clonar mi proyecto.
 
 ```bash
-git clone git@github.com:LiuvaSalas/Desafio-Guiado-1---DJango.git
+git clone git@github.com:LiuvaSalas/Contenido-Dinamico-Django.git
 ```
 
 ## Autor
