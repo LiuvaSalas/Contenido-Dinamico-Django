@@ -16,12 +16,10 @@ Including another URLconf
 """
 
 from django.contrib import admin
-from django.urls import include, path
+from django.urls import path
 from . import views
 
 urlpatterns = [
     path("admin/", admin.site.urls),
-    path("", views.herencia1, name="herencia1"),
-    path("CicloWhileFor/", include("CiclosWhileFor.urls")),
-    path("createarticle/", include("articleManagement.urls")),
+    path("", views.herencia1, name="CicloWhileFor"),
 ]

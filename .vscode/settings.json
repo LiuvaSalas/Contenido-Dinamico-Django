@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "pruebasqlite",
+      "database": "\"C:\\Users\\Liuva\\Desktop\\Desafio_Latam_G20\\GM0-M6 DJango2\\Clase 14-10 Mostrando Contenido Dinamico\\Desafio Evaluado\\webEmpleados\\db.sqlite3\""
+    }
+  ]
+}
